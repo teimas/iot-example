@@ -3,7 +3,7 @@
 Se enumeran a continuación todos los pasos para crear el código de la aplicación.
 Es necesario tener instalado [node](https://nodejs.org/es/) y Git.
 
-[Presentación con parte de Hardware](https://docs.google.com/presentation/d/1K1axSov3aGIXjKj72IZzQJNc23MQ0woEpP4gFWOsa-w/export/pdf?id=1K1axSov3aGIXjKj72IZzQJNc23MQ0woEpP4gFWOsa-w&pageid=g3425c6e7eb_1_19)
+[Presentación con parte de Hardware](https://docs.google.com/presentation/d/1K1axSov3aGIXjKj72IZzQJNc23MQ0woEpP4gFWOsa-w/export/pdf?id=1K1axSov3aGIXjKj72IZzQJNc23MQ0woEpP4gFWOsa-w&pageid=g3425c6e7eb_1_29)
 
 ## Inicializamos el repositorio
 
